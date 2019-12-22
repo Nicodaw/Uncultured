@@ -1,0 +1,12 @@
+That's a great idea, and many people have actually experimented with custom cards in cube. There are a lot of resources online on the topic. I suggest you read some of them before you even start:
+1) You need a design / set skeleton. This is the design process WotC implement, and one custom set designers also use, as it streamlines the whole process and results in balanced, WotC-quality product.
+Mark Rosewater discussing design skeletons: https://magic.wizards.com/.../nuts-bolts-design-skeleton...
+A primer on design skeletons: https://www.mtgsalvation.com/.../597944-primer-set-skeletons
+2) Sit down, and write a list of all the things you like about your favorite draft environments. Make sure you don't just write a list of mechanics, though.
+For example, many people say they like Khans limited because of Morph. However, Morph is only a mechanic, and Morph only works in an environment in which a 3 mana 2/2 is good enough to see play. Put Morph in a faster environment, and you'll find it doesn't work. This leads to the conclusion that players actually enjoyed the slower metagame Khans provides.
+3) Check out Planesculptor. This site hosts some of the most popular Custom MtG sets, and they also host frequent drafts of those sets online. Designing a set is different than designing a cube, but there are a lot of similarities for Planesculptors to be a useful resource.
+http://www.planesculptors.net/
+4) Your mechanics aren't as important as your theme. Your theme is what should dictate your choice of mechanics. E.g., a quick brainstorm: suppose we are back on Amonkhet, and want to show the rebuilding of the plane after Bolas led to its ruination. Suppose we also want to double down on the Tokens archetype, present in OG Amonkhet. Two mechanics which work perfectly together and help express those themes are Embalm (which is an Amonkhet mechanic), and Populate.
+5) Playtest. Playtest a lot! You don't need to commit to print or anything—before you even create the card in Photoshop (MSE is great for design, but awful for print), write it down on a piece of paper.
+--------------------------
+Personally, I don't care about specific mechanics as long as the gameplay is varied and interesting. Whether you want to make a set of cards with tons of different mechanics on them (Modern Horizons), or a Core Set custom set with only evergreen keywords (Core Set 19, 20, and so on) is up to you.
