@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spoiler set="Absurdistan Commanders">
+  <card>
+    <name>Vassil Lionheart</name>
+    <cost>W</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Human </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>W: Vassil Lionheart becomes a 1/4 Human Cleric with first strike.
+GG: If Vassil Lionheart is a Cleric, it becomes a 3/3 Human Warrior with vigilance.
+1RGW: If Vassil Lionheart is a Warrior, it becomes a 3/3 Human Warrior Avatar with first strike, vigilance, trample and lifelink.
+Then put three +1/+1 counters on it.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>1/24</number>
+  </card>
+  <card>
+    <name>*old*The Phonecaller</name>
+    <cost>2UBR</cost>
+    <type>
+      <supertype>Legendary Artifact Creature</supertype>
+      <subtype>Citizen </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>Tokens and copies of spells with a single target you control have Fragile, Deathtouch and Trample. (As they become the target of a spell or ability, exile them. Any amount of damage they deal to a creature is enough to destroy it. They can deal excess damage to its target’s controller.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>5</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>2/24</number>
+  </card>
+  <card>
+    <name>[old] The Phonecaller</name>
+    <cost>2UBR</cost>
+    <type>
+      <supertype>Legendary Artifact Creature</supertype>
+      <subtype>Citizen </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>2, T: The next card you cast this turn can be cast as though it had flash.
+Tokens and copies of spells with a single target you control have deathtouch, Shroud and Trample. (This spell can deal excess damage to its target’s controller.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>5</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>3/24</number>
+  </card>
+  <card>
+    <name>Aether Masters</name>
+    <cost>2WUB</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Citizen Warlock </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>Flying, Deathtouch, Trample
+Whenever any opponent loses life for the first time each turn, scry 1.
+Whenever you scry, you may pay 2. If you do, reveal the top card of your library and draw a card.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>4/24</number>
+  </card>
+  <card>
+    <name>Avatar of Levski</name>
+    <cost>0</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Human </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>W: Avatar of Levski becomes a 1/3 Human Cleric and gains first strike.
+GG: If Avatar of Levski is a Cleric, it becomes a 3/3 Human Warrior and gains vigilance.
+1RGW: If Avatar of Levski is a Warrior, it becomes a 4/4 Human Warrior Avatar with first strike, vigilance, trample and lifelink. Then put a +1/+1 counter on any number of target creatures.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>5/24</number>
+  </card>
+  <card>
+    <name>Bashta the Benevolent</name>
+    <cost>2GWU</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Vigilance
+Whenever a you put a counter on a creature, you may put a counter of the same type on another target creature with the same controller.
+T: Distribute two +1/+1 counters among up to two target creatures</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>6/24</number>
+  </card>
+  <card>
+    <name>Burlesque Mobset</name>
+    <cost>2BRG</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Goblin </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>Sacrifice a nontoken creature: Create a token that’s a copy of the sacrificed creature, except the token is legendary. That creature is a Goblin in addition to its other types.
+Goblins you control have poisonous 1.
+Asancho mami nali znaesh kolko te obichkam-</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>7/24</number>
+  </card>
+  <card>
+    <name>Burlesque Mobset</name>
+    <cost>1BRG</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Goblin </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>1, Sacrifice a nontoken creature: Create a token that’s a copy of it, that is a Goblin in addition to its other types.
+Goblins you control have poisonous 1.
+Asancho mami ti dneska she hodish li do pazara—</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>8/24</number>
+  </card>
+  <card>
+    <name>Court of Reasons</name>
+    <cost>WUUB</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Human Advisor </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>Flying
+At the beginning of your end step choose a card type, then each player shuffles his or her library and reveals the top card. Draw a card for each card of the chosen type revealed that way.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>5</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>9/24</number>
+  </card>
+  <card>
+    <name>Dobromir, the Generous</name>
+    <cost>2GWU</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Human Cleric </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>Dobromir, the Generous enters the battlefield with a flying, first strike, lifelink, reach, trample and vigilance counter on it.
+Whenever another creature enters the battlefield under your control, you may move a counter from Dobromir, the Generous onto that creature.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>10/24</number>
+  </card>
+  <card>
+    <name>Humongous, Pimp Lord</name>
+    <cost>BRG</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Goblin </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>3, Sacrifice a token creature: Shuffle your library, then reveal cards from the top until you reveal a card that shares a type with it. Put that card onto the battlefield and it gains haste until end of turn, then put all other cards revealed this way on the bottom of your library in a random order.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>11/24</number>
+  </card>
+  <card>
+    <name>Humongous, Pimp Lord</name>
+    <cost>BRG</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Goblin </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Changeling (This card is every creature type.)
+Sacrifice a nontoken creature:
+Shuffle your library, then reveal cards from the top until you reveal a creature card that shares a type with it. Put that card onto the battlefield and it gains haste.Then put all other cards revealed this way on the bottom of your library in a random order.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>12/24</number>
+  </card>
+  <card>
+    <name>Kana, Stitcher of Destiny</name>
+    <cost>1WUB</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Human Elder </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>Whenever an opponent casts a spell with converted mana cost more than the number of lands you control, that player loses life equal to that spell’s converted mana cost.
+1: You may return a land you control to its owner’s hand. If you do, tap or untap target permanent and it doesn’t untap during its controller’s next untap step.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>13/24</number>
+  </card>
+  <card>
+    <name>Kuzovi from Trudovec</name>
+    <cost>2GWU</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Human </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>You may play an additional land on each of your turns.
+2, T, Return a permanent you control to its owner’s hand: Spells you cast that share a type with that card cost 2 less until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>5</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>14/24</number>
+  </card>
+  <card>
+    <name>Meshere, Great Council</name>
+    <cost>1UBR</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Goblin Advisor </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>Whenever you cast a noncreature spell create a Treasure token.
+Sacrifice a Treasure: Choose one —
+• Goad target creature.
+• Draw a card, then discard a card.
+• Fateseal 1. (To fateseal 1, look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>15/24</number>
+  </card>
+  <card>
+    <name>Mittak the Revitalized </name>
+    <cost>GWU</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Human Elder </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>Whenever a creature with toughness greater than its power enters the battlefield, put a +1/+1 counter on target creature.
+Whenever a creature with power greater than its toughness enters the battlefield, scry 2 and gain 2 life..</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>16/24</number>
+  </card>
+  <card>
+    <name>Mittak the Revitalized </name>
+    <cost>1GWU</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Human Elder </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>Whenever a creature with toughness greater than its power enters the battlefield, you may put two +1/+1 counters on it.
+Whenever a creature with power greater than its toughness enters the battlefield, scry 2 and gain 2 life..</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>17/24</number>
+  </card>
+  <card>
+    <name>Peevski*</name>
+    <cost>1BG</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Human Advisor </subtype>
+    </type>
+    <rarity>R</rarity>
+    <rules>At the beginning of your upkeep, create a Land Lafka token with “T:Add C to your mana pool”, then each opponent loses life equal to the lands named Lafka you control. </rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>18/24</number>
+  </card>
+  <card>
+    <name>Triad of Shadows</name>
+    <cost>BRG</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Goblin Warlock </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>At the beginning of your end step, exile up to two target cards from an opponent’s graveyard.
+Whenever an opponent casts a spell that shares a type with a card exiled with Triad of Shadows, scry 1, draw a card and that opponent loses 2 life.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>19/24</number>
+  </card>
+  <card>
+    <name>Triad of Shadows</name>
+    <cost>BRG</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Goblin Warlock </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>At the beginning of your end step, exile up to two target cards from an opponent’s graveyard.
+Whenever an opponent casts a spell that shares a type with a card exiled with Triad of Shadows, scry 1, draw a card and that opponent loses 2 life.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>20/24</number>
+  </card>
+  <card>
+    <name>Vice Minister Schemancer</name>
+    <cost>1UBR</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Advisor </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>Sorcery spells you cast have hexproof. (They can’t be the target of a spell or ability your opponents control.)
+Whenever you cast a sorcery spell, scry 1, then draw a card.</rules>
+    <flavor>Izkarah vi veche ot dve krizi, shte vi izkaram i ot treta!</flavor>
+    <stats>
+      <power>4</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>21/24</number>
+  </card>
+  <card>
+    <name>The Voice of Tradition</name>
+    <cost>RGW</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Avatar </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>RGW, T:  Choose a card type, choose one:
+— Target creature gets +X/+0 until end of turn.
+— The Voice of Tradition deals X damage to target creature or planeswalker.
+— Gain X life.
+X is equal to the number of permanents of the chosen type you control.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>22/24</number>
+  </card>
+  <card>
+    <name>Yasen the Diligent</name>
+    <cost>1GWU</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Human Scout </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Whenever a nontoken creature enters the battlefield under your control, scry 1, then reveal the top card of your library. If it’s a land card, put it into your hand.
+Whenever you cast a sorcery spell, you may put a land card from your hand onto the battlefield tapped.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>23/24</number>
+  </card>
+  <card>
+    <name>Heart of Sofia</name>
+    <cost>4</cost>
+    <type>
+      <supertype>Legendary Artifact Creature</supertype>
+      <subtype>Citizen </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>1R: Target land doesn’t untap during its controller’s next untap step.
+1W: Tap target creature.
+1G: Look at the top card of your library. If it’s a colorless card you may reveal it and put it into your hand.
+T: Add CCC.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>24/24</number>
+  </card>
+</spoiler>
