@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spoiler set="Absurdistan Falling — Promos">
+  <card>
+    <name>Caught in the Brights {2}{W}8
+Caught in the Brights</name>
+    <cost>2W</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant creature
+Enchanted creature can’t attack or block.
+When a Vehicle you control attacks, exile enchanted creature.</rules>
+    <flavor>Mrudni be tupak!</flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>1/41</number>
+  </card>
+  <card>
+    <name>Ginka's Reproach*</name>
+    <cost>1W</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Ginka’s Reproach* deals 4 damage to target attacking or blocking creature.</rules>
+    <flavor>Na Poduyane, Ginka beshe popitana za cigara ot narkoman. No tya znae i vinagi e znaela che takiva recidivisti ne zaslujavat dori malko proshka.</flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>2/41</number>
+  </card>
+  <card>
+    <name>Glorious Anthem*</name>
+    <cost>1WW</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>R</rarity>
+    <rules>Creatures you control get +1/+1.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>3/41</number>
+  </card>
+  <card>
+    <name>Kataki, War's Wage</name>
+    <cost>1W</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Spirit </subtype>
+    </type>
+    <rarity>R</rarity>
+    <rules>All artifacts have “At the beginning of your upkeep, sacrifice this artifact unless you pay 1.”</rules>
+    <flavor>“Predi vremeto na tehnologiite i materialnite cennosti, takiva reprinti nqmashe” -Dyado Dobri</flavor>
+    <stats>
+      <power>2</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>4/41</number>
+  </card>
+  <card>
+    <name>Loyal Companion*</name>
+    <cost>1W</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Hound </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules></rules>
+    <flavor>“bal bal bal”
+— Sharo</flavor>
+    <stats>
+      <power>3</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>5/41</number>
+  </card>
+  <card>
+    <name>Archaeomancer</name>
+    <cost>2UU</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Wizard </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand.</rules>
+    <flavor>“...a TI pomnish li profila si v gepime.com ot predi 9 godini, a?”</flavor>
+    <stats>
+      <power>1</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>6/41</number>
+  </card>
+  <card>
+    <name>Clever Impersonator</name>
+    <cost>2UU</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Shapeshifter </subtype>
+    </type>
+    <rarity>R</rarity>
+    <rules>You may have Clever Impersonator enter the battlefield as a copy of any nonland permanent on the battlefield</rules>
+    <flavor>Vseki aktyor moje da e policai ili dqdo. No samo istinskiq showmen moje da izigrae motika!</flavor>
+    <stats>
+      <power>0</power>
+      <toughness>0</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>7/41</number>
+  </card>
+  <card>
+    <name>Sleep</name>
+    <cost>2UU</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>U</rarity>
+    <rules>Tap all creatures target player controls. Those creatures don’t untap during that player’s next untap step.</rules>
+    <flavor>“...sred postradalite osem sa pet detsa na vazrast mezhdu 7 i 14 godini i chetirima vazrastni, saobshti frenskoto vatreshno ministerstvo, tsitirano ot Royters...”</flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>8/41</number>
+  </card>
+  <card>
+    <name>TV Nation*</name>
+    <cost>2U</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Draw two cards</rules>
+    <flavor>“Half of your studies will be learning the laws. The other half will be bending them.”
+—Boko Rissov, master warlock</flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>9/41</number>
+  </card>
+  <card>
+    <name>Corrupt Official</name>
+    <cost>4B</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Advisor Minion </subtype>
+    </type>
+    <rarity>U</rarity>
+    <rules>2B: Regenerate Corrupt Official. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)
+Whenever Corrupt Official becomes blocked, defending player discards a card at random.</rules>
+    <flavor>His favor comes at a high price.</flavor>
+    <stats>
+      <power>3</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>10/41</number>
+  </card>
+  <card>
+    <name>Erection Defiler*</name>
+    <cost>2BB</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Zombie Citizen </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>1B, T: Target creature gets -2/-2 until end of turn.</rules>
+    <flavor>“The third stage of the illness: muscle aches and persistent cough.” —Phyrexian progress notes</flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator>adamieva.info</illustrator>
+    <number>11/41</number>
+  </card>
+  <card>
+    <name>Fallen Angel</name>
+    <cost>3BB</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Angel </subtype>
+    </type>
+    <rarity>R</rarity>
+    <rules>Flying
+Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn.</rules>
+    <flavor>Priqtelqt mi beshe vremenen.</flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>12/41</number>
+  </card>
+  <card>
+    <name>Nekrataal</name>
+    <cost>2BB</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Assasin </subtype>
+    </type>
+    <rarity>U</rarity>
+    <rules>First strike
+When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can’t be regenerated.</rules>
+    <flavor>His victims don’t have time to feel despair.</flavor>
+    <stats>
+      <power>2</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>13/41</number>
+  </card>
+  <card>
+    <name>Shiban Lakom*</name>
+    <cost>4BB</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Advisor Assassin </subtype>
+    </type>
+    <rarity>R</rarity>
+    <rules>Skulk (This creature can’t be blocked by creatures with greater power.)
+1: Shiban Lakom* gets -1/+1 until end of turn.</rules>
+    <flavor>“He’s just playing with us, Vasilev.”</flavor>
+    <stats>
+      <power>5</power>
+      <toughness>5</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>14/41</number>
+  </card>
+  <card>
+    <name>Sign in Blood*</name>
+    <cost>BB</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Target player draws two cards and loses 2 life.</rules>
+    <flavor>Znaete po kolko podpisa slagam na den. Ne se gordeya ot tova, koeto e napravila administratsiyata. — v otgovor na obvineniya, che e slozhil podpisa si pod neizgodna sdelka s Hristo Kovachki.</flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>15/41</number>
+  </card>
+  <card>
+    <name>*tormenting voice 2</name>
+    <cost>RR</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Draw a card. Each player discards two cards, then draws two cards.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>16/41</number>
+  </card>
+  <card>
+    <name>Atog</name>
+    <cost>1R</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Atog </subtype>
+    </type>
+    <rarity>R</rarity>
+    <rules>Sacrifice an artifact: Atog gets +2/+2 until end of turn.</rules>
+    <flavor>On Dominaria, a scavenger. On Mirrodin, a predator. In Absurdistan, an opportunist.</flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>17/41</number>
+  </card>
+  <card>
+    <name>Caffeinate </name>
+    <cost>R</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Target creature gains haste until end of turn.
+Draw a card.</rules>
+    <flavor>Mmm, edin dobur den! : )</flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>18/41</number>
+  </card>
+  <card>
+    <name>Fire Whip</name>
+    <cost>1R</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature has “T: This creature deals 1 damage to any target.”
+Sacrifice Fire Whip: Fire Whip deals 1 damage to any target.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>19/41</number>
+  </card>
+  <card>
+    <name>Hijack</name>
+    <cost>1RR</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn.</rules>
+    <flavor>V nqkoi kvartali ne trqbva da si ostavqsh daje i boklucite bez nadzor.</flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>20/41</number>
+  </card>
+  <card>
+    <name>Hijack2</name>
+    <cost>1RR</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn.</rules>
+    <flavor>V nqkoi kvartali ne trqbva da si ostavqsh daje i boklucite bez nadzor.</flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>21/41</number>
+  </card>
+  <card>
+    <name>Hordeling Outburst</name>
+    <cost>1RR</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>U</rarity>
+    <rules>Create three 1/1 red Goblin creature tokens.</rules>
+    <flavor>hAIDE IDVAITE DA PRAVIM SNIMKA</flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>22/41</number>
+  </card>
+  <card>
+    <name>Lightning Strike</name>
+    <cost>1R</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>U</rarity>
+    <rules>Lightning Strike deals 3 damage to any target.</rules>
+    <flavor>uf!</flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>23/41</number>
+  </card>
+  <card>
+    <name>Mangal Vandal</name>
+    <cost>2R</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Goblin Warrior </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Mangal Vandal enters the battlefield, destroy target artifact.</rules>
+    <flavor>Berem si prosto, gospodin, nie losho ne pravime.
+                                        ( tiho sali )</flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>24/41</number>
+  </card>
+  <card>
+    <name>Mugging</name>
+    <cost>R</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Mugging deals 2 damage to target creature. That creature can’t block this turn.</rules>
+    <flavor>...eeE!</flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>25/41</number>
+  </card>
+  <card>
+    <name>Trumpet Blast</name>
+    <cost>2R</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Attacking creatures get +2/+0 until end of turn.</rules>
+    <flavor>pfftbtbpftf</flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>26/41</number>
+  </card>
+  <card>
+    <name>Alpha Autority</name>
+    <cost>1G</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>U</rarity>
+    <rules>Enchant creature
+Enchanted creature has hexproof and can’t be blocked by more than one creature.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>27/41</number>
+  </card>
+  <card>
+    <name>Blunt the Assault</name>
+    <cost>3G</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>You gain 1 life for each creature on the battlefield. Prevent all combat damage that would be dealt this turn.</rules>
+    <flavor>“Nea smis1l tva kade go praite brat, pofni i viish che e tolko zabavno kolkoto i da se biesh brat.”</flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>28/41</number>
+  </card>
+  <card>
+    <name>Cultivate</name>
+    <cost>2G</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>29/41</number>
+  </card>
+  <card>
+    <name>Madwoods Gang*</name>
+    <cost>4GG</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules></rules>
+    <flavor>ludogorets ludogorets ludogorets ludogorets ludogorets ludogorets ludogorets ludogorets ludogorets </flavor>
+    <stats>
+      <power>6</power>
+      <toughness>7</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>30/41</number>
+  </card>
+  <card>
+    <name>Clan Defiance</name>
+    <cost>XRG</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>R</rarity>
+    <rules>Choose one or more —
+• Clan Defiance deals X damage to target creature with flying.
+• Clan Defiance deals X damage to target creature without flying.
+• Clan Defiance deals X damage to target player or planeswalker.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>31/41</number>
+  </card>
+  <card>
+    <name>Undermine*</name>
+    <cost>UUB</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>U</rarity>
+    <rules>Counter target spell. Its controller loses 3 life.</rules>
+    <flavor>“Which would you like first, the insult or the injury?”
+-Ivan Kostov</flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>32/41</number>
+  </card>
+  <card>
+    <name>*Post-Play Angel</name>
+    <cost>4</cost>
+    <type>
+      <supertype>Artifact Creature</supertype>
+      <subtype>Citizen Angel </subtype>
+    </type>
+    <rarity>R</rarity>
+    <rules>Flying
+T, Sacrifice X lands: Put X +1/+1 counters on *Post-Play Angel.</rules>
+    <flavor>“When people made cosplays, people called for a goddess. My angel is far superior to others.” —Gery, Kurvertor</flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>33/41</number>
+  </card>
+  <card>
+    <name>Cultivator's Caravan</name>
+    <cost>3</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Vehicle </subtype>
+    </type>
+    <rarity>R</rarity>
+    <rules>T: Add one mana of any color.
+Crew 3 (Tap any number of untapped creatures you control with total power 3 or greater: This permanent becomes an artifact creature until end of turn.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>5</power>
+      <toughness>5</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>34/41</number>
+  </card>
+  <card>
+    <name>Heavy Moticc*</name>
+    <cost>3</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Equipment </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Equipped creature gets +1/+1.
+As long as equipped creature is a Human, it gets an additional +1/+1.
+Equip 2</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>35/41</number>
+  </card>
+  <card>
+    <name>Meteor Golem</name>
+    <cost>7</cost>
+    <type>
+      <supertype>Artifact Creature</supertype>
+      <subtype>Golem </subtype>
+    </type>
+    <rarity>U</rarity>
+    <rules>When Meteor Golem enters the battlefield, destroy target nonland permanent an opponent controls.</rules>
+    <flavor>Mnogo kato tebe veche plakaha.</flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>36/41</number>
+  </card>
+  <card>
+    <name>Evolving Wilds*</name>
+    <cost></cost>
+    <type>
+      <supertype>Land</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>37/41</number>
+  </card>
+  <card>
+    <name>Chaos Warp</name>
+    <cost>2R</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>S</rarity>
+    <rules>The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it’s a permanent card, they put it onto the battlefield.</rules>
+    <flavor>“Aidee proverka dali vseki kandidat e homoseksualist”</flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>38/41</number>
+  </card>
+  <card>
+    <name>Goblin Swine-Rider</name>
+    <cost>R</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Goblin </subtype>
+    </type>
+    <rarity>S</rarity>
+    <rules>Whenever Goblin Swine-Rider becomes blocked, it deals 2 damage to each attacking creature and each blocking creature.</rules>
+    <flavor>Hghaide de!</flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>39/41</number>
+  </card>
+  <card>
+    <name>Tormenting Voice</name>
+    <cost>1R</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>S</rarity>
+    <rules>As an additional cost to cast this spell, discard a card.
+Draw two cards.</rules>
+    <flavor>Ti si burqta v surceto mi...</flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>40/41</number>
+  </card>
+  <card>
+    <name>Fog</name>
+    <cost>G</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>S</rarity>
+    <rules>Prevent all combat damage that would be dealt this turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>41/41</number>
+  </card>
+</spoiler>
