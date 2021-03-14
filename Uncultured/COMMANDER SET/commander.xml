@@ -18,7 +18,7 @@ Then put three +1/+1 counters on it.</rules>
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>1/24</number>
+    <number>1/27</number>
   </card>
   <card>
     <name>*old*The Phonecaller</name>
@@ -35,7 +35,7 @@ Then put three +1/+1 counters on it.</rules>
       <toughness>5</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>2/24</number>
+    <number>2/27</number>
   </card>
   <card>
     <name>[old] The Phonecaller</name>
@@ -53,7 +53,7 @@ Tokens and copies of spells with a single target you control have deathtouch, Sh
       <toughness>5</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>3/24</number>
+    <number>3/27</number>
   </card>
   <card>
     <name>Aether Masters</name>
@@ -72,7 +72,7 @@ Whenever you scry, you may pay 2. If you do, reveal the top card of your library
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>4/24</number>
+    <number>4/27</number>
   </card>
   <card>
     <name>Avatar of Levski</name>
@@ -91,7 +91,7 @@ GG: If Avatar of Levski is a Cleric, it becomes a 3/3 Human Warrior and gains vi
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>5/24</number>
+    <number>5/27</number>
   </card>
   <card>
     <name>Bashta the Benevolent</name>
@@ -110,7 +110,7 @@ T: Distribute two +1/+1 counters among up to two target creatures</rules>
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>6/24</number>
+    <number>6/27</number>
   </card>
   <card>
     <name>Burlesque Mobset</name>
@@ -129,7 +129,7 @@ Asancho mami nali znaesh kolko te obichkam-</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>7/24</number>
+    <number>7/27</number>
   </card>
   <card>
     <name>Burlesque Mobset</name>
@@ -148,7 +148,7 @@ Asancho mami ti dneska she hodish li do pazara—</rules>
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>8/24</number>
+    <number>8/27</number>
   </card>
   <card>
     <name>Court of Reasons</name>
@@ -166,7 +166,43 @@ At the beginning of your end step choose a card type, then each player shuffles 
       <toughness>5</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>9/24</number>
+    <number>9/27</number>
+  </card>
+  <card>
+    <name>Dedo Moni*</name>
+    <cost>1GW</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Elder Noble </subtype>
+    </type>
+    <rarity>R</rarity>
+    <rules>When Dedo Moni* enters the battlefield or attacks, create a land token named Palace with “T: Add one mana of any color.”
+Lands named Palace have no abilities as long as you control Dedo Moni*..</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>10/27</number>
+  </card>
+  <card>
+    <name>Dinko</name>
+    <cost>3RG</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Human Warrior </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>Hexproof from blue
+Impulsive reaction - Whenever Dinko becomes the target of a spell or an ability for the first time each turn, it gets +1/+1 until end of turn and you may have it fight target creature you don’t control.</rules>
+    <flavor>Bulgaria ima nujda ot hora kato men, resheni da zashtitqt durjavata si!</flavor>
+    <stats>
+      <power>4</power>
+      <toughness>5</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>11/27</number>
   </card>
   <card>
     <name>Dobromir, the Generous</name>
@@ -176,7 +212,8 @@ At the beginning of your end step choose a card type, then each player shuffles 
       <subtype>Human Cleric </subtype>
     </type>
     <rarity>M</rarity>
-    <rules>Dobromir, the Generous enters the battlefield with a flying, first strike, lifelink, reach, trample and vigilance counter on it.
+    <rules>Shroud
+Dobromir, the Generous enters the battlefield with a flying, first strike, lifelink, reach, trample and vigilance counter on it.
 Whenever another creature enters the battlefield under your control, you may move a counter from Dobromir, the Generous onto that creature.</rules>
     <flavor></flavor>
     <stats>
@@ -184,24 +221,25 @@ Whenever another creature enters the battlefield under your control, you may mov
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>10/24</number>
+    <number>12/27</number>
   </card>
   <card>
-    <name>Humongous, Pimp Lord</name>
-    <cost>BRG</cost>
+    <name>General Mutafchiiski*</name>
+    <cost>3WU</cost>
     <type>
       <supertype>Legendary Creature</supertype>
-      <subtype>Goblin </subtype>
+      <subtype>Human Soldier </subtype>
     </type>
     <rarity>M</rarity>
-    <rules>3, Sacrifice a token creature: Shuffle your library, then reveal cards from the top until you reveal a card that shares a type with it. Put that card onto the battlefield and it gains haste until end of turn, then put all other cards revealed this way on the bottom of your library in a random order.</rules>
-    <flavor></flavor>
+    <rules>Flash
+When this creature enters the battlefield or becomes untapped, exile target tapped creature until General Mutafchiiski* leaves the battlefield.</rules>
+    <flavor>Vsqkakvo narushenie na zakona shte bude nakazvano s lishavane ot svoboda.    </flavor>
     <stats>
-      <power>4</power>
+      <power>3</power>
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>11/24</number>
+    <number>13/27</number>
   </card>
   <card>
     <name>Humongous, Pimp Lord</name>
@@ -220,7 +258,42 @@ Shuffle your library, then reveal cards from the top until you reveal a creature
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>12/24</number>
+    <number>14/27</number>
+  </card>
+  <card>
+    <name>Humongous, Pimp Lord</name>
+    <cost>BRG</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Goblin </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>3, Sacrifice a token creature: Shuffle your library, then reveal cards from the top until you reveal a card that shares a type with it. Put that card onto the battlefield and it gains haste until end of turn, then put all other cards revealed this way on the bottom of your library in a random order.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>15/27</number>
+  </card>
+  <card>
+    <name>Ivan Kostov, the Underminer</name>
+    <cost>1UB</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Human Advisor </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>Ivan Kostov, the Underminer can’t be blocked.
+At the beginning of each end step, scry X, where X is equal to the life lost by target opponent this turn. If that number is 3 or more, draw a card instead.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>16/27</number>
   </card>
   <card>
     <name>Kana, Stitcher of Destiny</name>
@@ -238,7 +311,7 @@ Shuffle your library, then reveal cards from the top until you reveal a creature
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>13/24</number>
+    <number>17/27</number>
   </card>
   <card>
     <name>Kuzovi from Trudovec</name>
@@ -256,7 +329,7 @@ Shuffle your library, then reveal cards from the top until you reveal a creature
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>14/24</number>
+    <number>18/27</number>
   </card>
   <card>
     <name>Meshere, Great Council</name>
@@ -277,25 +350,7 @@ Sacrifice a Treasure: Choose one —
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>15/24</number>
-  </card>
-  <card>
-    <name>Mittak the Revitalized </name>
-    <cost>GWU</cost>
-    <type>
-      <supertype>Legendary Creature</supertype>
-      <subtype>Human Elder </subtype>
-    </type>
-    <rarity>M</rarity>
-    <rules>Whenever a creature with toughness greater than its power enters the battlefield, put a +1/+1 counter on target creature.
-Whenever a creature with power greater than its toughness enters the battlefield, scry 2 and gain 2 life..</rules>
-    <flavor></flavor>
-    <stats>
-      <power>3</power>
-      <toughness>3</toughness>
-    </stats>
-    <illustrator></illustrator>
-    <number>16/24</number>
+    <number>19/27</number>
   </card>
   <card>
     <name>Mittak the Revitalized </name>
@@ -313,7 +368,7 @@ Whenever a creature with power greater than its toughness enters the battlefield
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>17/24</number>
+    <number>20/27</number>
   </card>
   <card>
     <name>Peevski*</name>
@@ -330,7 +385,25 @@ Whenever a creature with power greater than its toughness enters the battlefield
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>18/24</number>
+    <number>21/27</number>
+  </card>
+  <card>
+    <name>Tariq Atman, Heavyweight</name>
+    <cost>3BR</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Goblin Rogue </subtype>
+    </type>
+    <rarity>M</rarity>
+    <rules>When Tariq Atman, enters the battlefield, each player discards his hand then draws cards equal to the number of creature cards they discarded that way.
+1RB, T: Put target creature card from a graveyard onto the battlefield under your control. It gains haste. Sacrifice it at the beginning of your upkeep.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>22/27</number>
   </card>
   <card>
     <name>Triad of Shadows</name>
@@ -348,25 +421,7 @@ Whenever an opponent casts a spell that shares a type with a card exiled with Tr
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>19/24</number>
-  </card>
-  <card>
-    <name>Triad of Shadows</name>
-    <cost>BRG</cost>
-    <type>
-      <supertype>Legendary Creature</supertype>
-      <subtype>Goblin Warlock </subtype>
-    </type>
-    <rarity>M</rarity>
-    <rules>At the beginning of your end step, exile up to two target cards from an opponent’s graveyard.
-Whenever an opponent casts a spell that shares a type with a card exiled with Triad of Shadows, scry 1, draw a card and that opponent loses 2 life.</rules>
-    <flavor></flavor>
-    <stats>
-      <power>3</power>
-      <toughness>4</toughness>
-    </stats>
-    <illustrator></illustrator>
-    <number>20/24</number>
+    <number>23/27</number>
   </card>
   <card>
     <name>Vice Minister Schemancer</name>
@@ -384,17 +439,17 @@ Whenever you cast a sorcery spell, scry 1, then draw a card.</rules>
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>21/24</number>
+    <number>24/27</number>
   </card>
   <card>
     <name>The Voice of Tradition</name>
-    <cost>RGW</cost>
+    <cost>GW</cost>
     <type>
       <supertype>Legendary Creature</supertype>
       <subtype>Avatar </subtype>
     </type>
     <rarity>M</rarity>
-    <rules>RGW, T:  Choose a card type, choose one:
+    <rules>1RGW, T:  Choose a card type, choose one:
 — Target creature gets +X/+0 until end of turn.
 — The Voice of Tradition deals X damage to target creature or planeswalker.
 — Gain X life.
@@ -405,7 +460,7 @@ X is equal to the number of permanents of the chosen type you control.</rules>
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>22/24</number>
+    <number>25/27</number>
   </card>
   <card>
     <name>Yasen the Diligent</name>
@@ -423,7 +478,7 @@ Whenever you cast a sorcery spell, you may put a land card from your hand onto t
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>23/24</number>
+    <number>26/27</number>
   </card>
   <card>
     <name>Heart of Sofia</name>
@@ -443,6 +498,6 @@ T: Add CCC.</rules>
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>24/24</number>
+    <number>27/27</number>
   </card>
 </spoiler>
