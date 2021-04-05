@@ -35,7 +35,7 @@ T: Destroy target token permanent.
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>1/239</number>
+    <number>1/240</number>
   </card>
   <card>
     <name>Human</name>
@@ -69,7 +69,7 @@ T: Destroy target token permanent.
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>2/239</number>
+    <number>2/240</number>
   </card>
   <card>
     <name>Soldier</name>
@@ -104,7 +104,7 @@ Activated abilities of permanents you control cost 1 less. This effect can’t r
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>3/239</number>
+    <number>3/240</number>
   </card>
   <card>
     <name>Advisor</name>
@@ -139,7 +139,7 @@ Whenever Ambulance attacks, regenerate another target creature with toughness 3 
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>4/239</number>
+    <number>4/240</number>
   </card>
   <card>
     <name>Zombie</name>
@@ -173,7 +173,7 @@ Whenever Ambulance attacks, regenerate another target creature with toughness 3 
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>5/239</number>
+    <number>5/240</number>
   </card>
   <card>
     <name>Goblin </name>
@@ -208,7 +208,7 @@ Whenever a Stuff enters the battlefield under your control, create a 1/1 white a
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>6/239</number>
+    <number>6/240</number>
   </card>
   <card>
     <name>*Human Warrior</name>
@@ -244,7 +244,7 @@ Whenever this creature enters the battlefield, another target creature you contr
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>7/239</number>
+    <number>7/240</number>
   </card>
   <card>
     <name>Plant</name>
@@ -279,7 +279,7 @@ Artifacts and creatures your opponents control enter the battlefield tapped.</ru
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>8/239</number>
+    <number>8/240</number>
   </card>
   <card>
     <name>Clue</name>
@@ -314,7 +314,7 @@ Whenever another creature enters the battlefield, untap Clueless Gossipers and i
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>9/239</number>
+    <number>9/240</number>
   </card>
   <card>
     <name>Clue</name>
@@ -350,7 +350,7 @@ Whenever another creature enters the battlefield, untap Clueless Gossipers and i
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>10/239</number>
+    <number>10/240</number>
   </card>
   <card>
     <name>Clue</name>
@@ -385,7 +385,7 @@ Prevent all combat damage that would be dealt by tapped creatures this turn.</ru
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>11/239</number>
+    <number>11/240</number>
   </card>
   <card>
     <name>Stuff</name>
@@ -421,7 +421,7 @@ T: Create a Stuff token.</rules>
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>12/239</number>
+    <number>12/240</number>
   </card>
   <card>
     <name>Stuff</name>
@@ -455,7 +455,7 @@ T: Create a Stuff token.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>13/239</number>
+    <number>13/240</number>
   </card>
   <card>
     <name>Stuff</name>
@@ -489,7 +489,7 @@ T: Create a Stuff token.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>14/239</number>
+    <number>14/240</number>
   </card>
   <card>
     <name>Stuff</name>
@@ -524,7 +524,7 @@ Whenever Janitor Seagull deals combat damage to a player, you may exile target c
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>15/239</number>
+    <number>15/240</number>
   </card>
   <card>
     <name>Treasure</name>
@@ -560,7 +560,7 @@ Create a 1/1 white Human creature token.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>16/239</number>
+    <number>16/240</number>
   </card>
   <card>
     <name>Treasure</name>
@@ -595,7 +595,7 @@ Create a 1/1 white Human creature token.</rules>
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>17/239</number>
+    <number>17/240</number>
   </card>
   <card>
     <name>Wall</name>
@@ -630,7 +630,7 @@ Enchanted creature gets +1/+2 and has vigilance.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>18/239</number>
+    <number>18/240</number>
   </card>
   <card>
     <name>Palace</name>
@@ -664,7 +664,7 @@ Enchanted creature gets +1/+2 and has vigilance.</rules>
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>19/239</number>
+    <number>19/240</number>
   </card>
   <card>
     <name>Emblem</name>
@@ -698,7 +698,7 @@ Enchanted creature gets +1/+2 and has vigilance.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>20/239</number>
+    <number>20/240</number>
   </card>
   <card>
     <name>Oppressive-will Baba</name>
@@ -715,7 +715,7 @@ Enchanted creature gets +1/+2 and has vigilance.</rules>
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>21/239</number>
+    <number>21/240</number>
   </card>
   <card>
     <name>Outlaster*</name>
@@ -733,7 +733,7 @@ Whenever a Treasure enters the battlefield under your control, untap Outlaster*.
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>22/239</number>
+    <number>22/240</number>
   </card>
   <card>
     <name>Pararoyal Limousine</name>
@@ -752,7 +752,7 @@ Whenever Pararoyal Limousine deals combat damage to a player, exile target creat
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>23/239</number>
+    <number>23/240</number>
   </card>
   <card>
     <name>Populace Strike</name>
@@ -770,7 +770,7 @@ Permanents enter the battlefield tapped this turn. Players can’t cast spells t
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>24/239</number>
+    <number>24/240</number>
   </card>
   <card>
     <name>Respected Matriarch</name>
@@ -788,7 +788,7 @@ Prevent all combat damage that would be dealt to this creature.</rules>
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>25/239</number>
+    <number>25/240</number>
   </card>
   <card>
     <name>Restless Aggressor </name>
@@ -805,7 +805,7 @@ Prevent all combat damage that would be dealt to this creature.</rules>
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>26/239</number>
+    <number>26/240</number>
   </card>
   <card>
     <name>Rhetoristic Archangel</name>
@@ -823,7 +823,7 @@ Whenever an opponent casts a spell or activates an ability that isn’t a mana a
       <toughness>5</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>27/239</number>
+    <number>27/240</number>
   </card>
   <card>
     <name>Streetwise Trainee</name>
@@ -841,7 +841,7 @@ T: Target creature gains first strike. Activate this ability only if Streetwise 
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>28/239</number>
+    <number>28/240</number>
   </card>
   <card>
     <name>Traffic-Law Enforcer</name>
@@ -858,7 +858,7 @@ T: Target creature gains first strike. Activate this ability only if Streetwise 
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>29/239</number>
+    <number>29/240</number>
   </card>
   <card>
     <name>Unyielding Babushka*</name>
@@ -876,7 +876,7 @@ When Unyielding Babushka* deals combat damage to a player, scry 1.</rules>
       <toughness>7</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>30/239</number>
+    <number>30/240</number>
   </card>
   <card>
     <name>Veropochitnitsa</name>
@@ -893,7 +893,7 @@ When Unyielding Babushka* deals combat damage to a player, scry 1.</rules>
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>31/239</number>
+    <number>31/240</number>
   </card>
   <card>
     <name>Watchful Officer*</name>
@@ -911,7 +911,7 @@ Other soldiers you control have +1/+1 and Vigilance.</rules>
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>32/239</number>
+    <number>32/240</number>
   </card>
   <card>
     <name>Ela Brat</name>
@@ -928,7 +928,7 @@ Other soldiers you control have +1/+1 and Vigilance.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>33/239</number>
+    <number>33/240</number>
   </card>
   <card>
     <name>Ashkolsoon</name>
@@ -947,7 +947,7 @@ Enchanted creature doesn’t untap during its’ controller’s untap step.</rul
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>34/239</number>
+    <number>34/240</number>
   </card>
   <card>
     <name>Asset Fascination</name>
@@ -966,7 +966,7 @@ Enchanted player can’t untap more than one creature during their untap step.</
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>35/239</number>
+    <number>35/240</number>
   </card>
   <card>
     <name>Augur of Opacity *flav</name>
@@ -983,7 +983,7 @@ Enchanted player can’t untap more than one creature during their untap step.</
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>36/239</number>
+    <number>36/240</number>
   </card>
   <card>
     <name>Battalion Alignment</name>
@@ -1000,7 +1000,7 @@ Enchanted player can’t untap more than one creature during their untap step.</
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>37/239</number>
+    <number>37/240</number>
   </card>
   <card>
     <name>Captivated Audience</name>
@@ -1018,7 +1018,7 @@ Whenever a player casts a spell, untap Captivated Audience and it gains +1/-1 un
       <toughness>5</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>38/239</number>
+    <number>38/240</number>
   </card>
   <card>
     <name>City-Council Advisor</name>
@@ -1035,7 +1035,7 @@ Whenever a player casts a spell, untap Captivated Audience and it gains +1/-1 un
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>39/239</number>
+    <number>39/240</number>
   </card>
   <card>
     <name>Coalition Agitator</name>
@@ -1053,7 +1053,7 @@ Whenever Coalition Agitator or another Advisor you control deals combat damage t
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>40/239</number>
+    <number>40/240</number>
   </card>
   <card>
     <name>Collective Command</name>
@@ -1074,7 +1074,7 @@ Whenever Coalition Agitator or another Advisor you control deals combat damage t
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>41/239</number>
+    <number>41/240</number>
   </card>
   <card>
     <name>Deploy Democracy</name>
@@ -1091,7 +1091,7 @@ Whenever Coalition Agitator or another Advisor you control deals combat damage t
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>42/239</number>
+    <number>42/240</number>
   </card>
   <card>
     <name>Deport</name>
@@ -1108,7 +1108,7 @@ Whenever Coalition Agitator or another Advisor you control deals combat damage t
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>43/239</number>
+    <number>43/240</number>
   </card>
   <card>
     <name>Descendant of Vanga</name>
@@ -1125,7 +1125,7 @@ Whenever Coalition Agitator or another Advisor you control deals combat damage t
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>44/239</number>
+    <number>44/240</number>
   </card>
   <card>
     <name>District Informant</name>
@@ -1143,7 +1143,7 @@ Whenever this creature deals combat damage to a player, look at the top card of 
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>45/239</number>
+    <number>45/240</number>
   </card>
   <card>
     <name>Employ</name>
@@ -1162,7 +1162,7 @@ At the beginning of your upkeep, tap enchanted creature and create a Treasure to
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>46/239</number>
+    <number>46/240</number>
   </card>
   <card>
     <name>Goods Inspection</name>
@@ -1180,7 +1180,7 @@ Draw two cards.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>47/239</number>
+    <number>47/240</number>
   </card>
   <card>
     <name>In the Spotlight</name>
@@ -1198,7 +1198,7 @@ Target creature gains hexproof until end of turn. Draw a card.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>48/239</number>
+    <number>48/240</number>
   </card>
   <card>
     <name>Kukka Tupalmaster</name>
@@ -1215,7 +1215,7 @@ Target creature gains hexproof until end of turn. Draw a card.</rules>
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>49/239</number>
+    <number>49/240</number>
   </card>
   <card>
     <name>Lantern-Lit Ascendant</name>
@@ -1234,7 +1234,7 @@ When Lantern-Lit Ascendant becomes tapped, you may return it to your hand.</rule
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>50/239</number>
+    <number>50/240</number>
   </card>
   <card>
     <name>Lawmending</name>
@@ -1252,7 +1252,7 @@ Scry 2.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>51/239</number>
+    <number>51/240</number>
   </card>
   <card>
     <name>Major Deschematorov*</name>
@@ -1269,7 +1269,7 @@ Scry 2.</rules>
       <toughness>5</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>52/239</number>
+    <number>52/240</number>
   </card>
   <card>
     <name>Mark of the Countless Roads</name>
@@ -1287,7 +1287,7 @@ Enchanted creature gets +1/+1 and has flying.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>53/239</number>
+    <number>53/240</number>
   </card>
   <card>
     <name>Niki Kunchev, Richmaker</name>
@@ -1306,7 +1306,7 @@ Draw ten cards. Untap up to ten permanents you control.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>54/239</number>
+    <number>54/240</number>
   </card>
   <card>
     <name>Obshtinar Footpad</name>
@@ -1324,7 +1324,7 @@ T: Target opponent taps an untapped creature they control unless they pay 2.</ru
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>55/239</number>
+    <number>55/240</number>
   </card>
   <card>
     <name>Pesky Pest</name>
@@ -1342,7 +1342,7 @@ At the beginning of each combat, any opponent may tap an untapped creature they 
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>56/239</number>
+    <number>56/240</number>
   </card>
   <card>
     <name>Postman Courier</name>
@@ -1360,7 +1360,7 @@ Whenever Postman Courier becomes tapped, create a Clue token.</rules>
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>57/239</number>
+    <number>57/240</number>
   </card>
   <card>
     <name>Preposterous Scholar*</name>
@@ -1377,7 +1377,7 @@ Whenever Postman Courier becomes tapped, create a Clue token.</rules>
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>58/239</number>
+    <number>58/240</number>
   </card>
   <card>
     <name>Seepage Agent*</name>
@@ -1394,7 +1394,7 @@ Whenever Postman Courier becomes tapped, create a Clue token.</rules>
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>59/239</number>
+    <number>59/240</number>
   </card>
   <card>
     <name>Sighteeing's Side Sight</name>
@@ -1411,7 +1411,7 @@ Whenever Postman Courier becomes tapped, create a Clue token.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>60/239</number>
+    <number>60/240</number>
   </card>
   <card>
     <name>Soothe the Masses</name>
@@ -1429,7 +1429,7 @@ Draw a card.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>61/239</number>
+    <number>61/240</number>
   </card>
   <card>
     <name>Ushev Tag-Squad</name>
@@ -1447,7 +1447,7 @@ Whenever Ushev Tag-Squad deals combat damage to a player, up to X permanents don
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>62/239</number>
+    <number>62/240</number>
   </card>
   <card>
     <name>Vastroad Enforcer</name>
@@ -1465,7 +1465,7 @@ Whenever this creature deals combat damage to an opponent, target creature doesn
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>63/239</number>
+    <number>63/240</number>
   </card>
   <card>
     <name>Vigilantive Opportunist</name>
@@ -1483,7 +1483,7 @@ Whenever Vigilantive Opportunist deals combat damage to an opponent, draw a card
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>64/239</number>
+    <number>64/240</number>
   </card>
   <card>
     <name>Sorry</name>
@@ -1500,7 +1500,7 @@ Whenever Vigilantive Opportunist deals combat damage to an opponent, draw a card
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>65/239</number>
+    <number>65/240</number>
   </card>
   <card>
     <name>Bakshish</name>
@@ -1517,7 +1517,7 @@ Whenever Vigilantive Opportunist deals combat damage to an opponent, draw a card
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>66/239</number>
+    <number>66/240</number>
   </card>
   <card>
     <name>Belot Grinder Party</name>
@@ -1535,7 +1535,7 @@ Whenever Belot Grinder Party dies, target opponent creates three Treasure tokens
       <toughness>5</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>67/239</number>
+    <number>67/240</number>
   </card>
   <card>
     <name>Callow Dupe</name>
@@ -1552,7 +1552,7 @@ Whenever Belot Grinder Party dies, target opponent creates three Treasure tokens
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>68/239</number>
+    <number>68/240</number>
   </card>
   <card>
     <name>Constable Coercer*</name>
@@ -1569,7 +1569,7 @@ Whenever Belot Grinder Party dies, target opponent creates three Treasure tokens
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>69/239</number>
+    <number>69/240</number>
   </card>
   <card>
     <name>Crewcaller*</name>
@@ -1586,7 +1586,7 @@ Whenever Belot Grinder Party dies, target opponent creates three Treasure tokens
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>70/239</number>
+    <number>70/240</number>
   </card>
   <card>
     <name>Dark Deal Executive</name>
@@ -1603,7 +1603,7 @@ Whenever Belot Grinder Party dies, target opponent creates three Treasure tokens
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>71/239</number>
+    <number>71/240</number>
   </card>
   <card>
     <name>Enemy of the Government</name>
@@ -1621,7 +1621,7 @@ Exile target creature.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>72/239</number>
+    <number>72/240</number>
   </card>
   <card>
     <name>Festering Cigan*</name>
@@ -1638,7 +1638,7 @@ Exile target creature.</rules>
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>73/239</number>
+    <number>73/240</number>
   </card>
   <card>
     <name>Gery, Undercity Kurvertor</name>
@@ -1657,7 +1657,7 @@ T, Sacrifice a non-zombie creature: Destroy target non-zombie creature. You and 
       <toughness>8</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>74/239</number>
+    <number>74/240</number>
   </card>
   <card>
     <name>Grisly Roaches</name>
@@ -1675,7 +1675,7 @@ When Grisly Roaches enters the battlefield, if its tribute wasn’t paid, target
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>75/239</number>
+    <number>75/240</number>
   </card>
   <card>
     <name>Head of Affairs*</name>
@@ -1692,7 +1692,7 @@ When Grisly Roaches enters the battlefield, if its tribute wasn’t paid, target
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>76/239</number>
+    <number>76/240</number>
   </card>
   <card>
     <name>Lost in the Hoods</name>
@@ -1709,7 +1709,7 @@ When Grisly Roaches enters the battlefield, if its tribute wasn’t paid, target
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>77/239</number>
+    <number>77/240</number>
   </card>
   <card>
     <name>Lutvi, Sorrowsower</name>
@@ -1727,7 +1727,7 @@ When Lutvi deals combat damage to a player, that player discards a card. If the 
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>78/239</number>
+    <number>78/240</number>
   </card>
   <card>
     <name>Mad Auntie</name>
@@ -1745,7 +1745,7 @@ T: Regenerate another target Goblin.</rules>
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>79/239</number>
+    <number>79/240</number>
   </card>
   <card>
     <name>Mark of the Afflictful</name>
@@ -1763,7 +1763,7 @@ Enchanted creature gets +2/+2 and has lifelink.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>80/239</number>
+    <number>80/240</number>
   </card>
   <card>
     <name>Newswatcher</name>
@@ -1781,7 +1781,7 @@ Whenever one or more creatures die, untap Newswatcher.</rules>
       <toughness>5</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>81/239</number>
+    <number>81/240</number>
   </card>
   <card>
     <name>Pestilent Expert</name>
@@ -1798,7 +1798,7 @@ Whenever one or more creatures die, untap Newswatcher.</rules>
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>82/239</number>
+    <number>82/240</number>
   </card>
   <card>
     <name>Psycholobotomist Duo</name>
@@ -1815,7 +1815,7 @@ Whenever one or more creatures die, untap Newswatcher.</rules>
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>83/239</number>
+    <number>83/240</number>
   </card>
   <card>
     <name>Ritual of Trash</name>
@@ -1833,7 +1833,7 @@ Return up to one target creature card from your graveyard to your hand.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>84/239</number>
+    <number>84/240</number>
   </card>
   <card>
     <name>Semitic Cockroach</name>
@@ -1851,7 +1851,7 @@ When Semitic Cockroach enters the battlefield, you may sacrifice another permane
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>85/239</number>
+    <number>85/240</number>
   </card>
   <card>
     <name>Servant of Woe</name>
@@ -1868,7 +1868,7 @@ When Semitic Cockroach enters the battlefield, you may sacrifice another permane
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>86/239</number>
+    <number>86/240</number>
   </card>
   <card>
     <name>Shank</name>
@@ -1886,7 +1886,7 @@ Scry 1</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>87/239</number>
+    <number>87/240</number>
   </card>
   <card>
     <name>Shiban Lakom</name>
@@ -1904,7 +1904,7 @@ Scry 1</rules>
       <toughness>5</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>88/239</number>
+    <number>88/240</number>
   </card>
   <card>
     <name>Slavi, Dreadful Demagogue</name>
@@ -1923,7 +1923,7 @@ Exile all cards from target player’s graveyard. For each creature card exiled 
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>89/239</number>
+    <number>89/240</number>
   </card>
   <card>
     <name>Slavi's Show</name>
@@ -1941,7 +1941,7 @@ B, Sacrifice a creature: Create a 2/2 black Zombie creature token. Activate this
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>90/239</number>
+    <number>90/240</number>
   </card>
   <card>
     <name>Timely Team*art</name>
@@ -1958,7 +1958,7 @@ B, Sacrifice a creature: Create a 2/2 black Zombie creature token. Activate this
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>91/239</number>
+    <number>91/240</number>
   </card>
   <card>
     <name>Undeathful Cigan</name>
@@ -1976,7 +1976,7 @@ B, Sacrifice a creature: Create a 2/2 black Zombie creature token. Activate this
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>92/239</number>
+    <number>92/240</number>
   </card>
   <card>
     <name>Vicious Aspirant</name>
@@ -1994,7 +1994,7 @@ Whenever this creature becomes blocked, defending player loses 3 life.</rules>
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>93/239</number>
+    <number>93/240</number>
   </card>
   <card>
     <name>Webscape Dramatist</name>
@@ -2011,7 +2011,7 @@ Whenever this creature becomes blocked, defending player loses 3 life.</rules>
       <toughness>5</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>94/239</number>
+    <number>94/240</number>
   </card>
   <card>
     <name>Smetki</name>
@@ -2029,7 +2029,7 @@ Draw a card.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>95/239</number>
+    <number>95/240</number>
   </card>
   <card>
     <name>*Money's charm</name>
@@ -2047,7 +2047,7 @@ End the phase. (Exile all spells and abilities from the stack, including this sp
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>96/239</number>
+    <number>96/240</number>
   </card>
   <card>
     <name>Battle-Ready Bargainist 2 *</name>
@@ -2064,7 +2064,7 @@ End the phase. (Exile all spells and abilities from the stack, including this sp
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>97/239</number>
+    <number>97/240</number>
   </card>
   <card>
     <name>Battle-Ready Bargainist*</name>
@@ -2081,7 +2081,7 @@ End the phase. (Exile all spells and abilities from the stack, including this sp
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>98/239</number>
+    <number>98/240</number>
   </card>
   <card>
     <name>Becigan*2 mana?</name>
@@ -2100,7 +2100,7 @@ Enchanted creature has “Other goblin creatures you control get +1/+1.”</rule
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>99/239</number>
+    <number>99/240</number>
   </card>
   <card>
     <name>Bloodthirsty Mugger</name>
@@ -2119,7 +2119,7 @@ Other Goblins you control have menace.</rules>
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>100/239</number>
+    <number>100/240</number>
   </card>
   <card>
     <name>Cheap Shot Batka</name>
@@ -2136,7 +2136,7 @@ Other Goblins you control have menace.</rules>
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>101/239</number>
+    <number>101/240</number>
   </card>
   <card>
     <name>Cigan Broodmother</name>
@@ -2154,7 +2154,7 @@ R, Tap two untapped goblins you control with total power 2 or greater: Create a 
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>102/239</number>
+    <number>102/240</number>
   </card>
   <card>
     <name>Ciganate of Calamity</name>
@@ -2174,7 +2174,7 @@ R, Tap two untapped goblins you control with total power 2 or greater: Create a 
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>103/239</number>
+    <number>103/240</number>
   </card>
   <card>
     <name>Crimson Meadows Regular</name>
@@ -2193,7 +2193,7 @@ Hgh!</rules>
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>104/239</number>
+    <number>104/240</number>
   </card>
   <card>
     <name>Crowdstorm</name>
@@ -2210,7 +2210,7 @@ Hgh!</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>105/239</number>
+    <number>105/240</number>
   </card>
   <card>
     <name>Fleeting Bravado</name>
@@ -2229,7 +2229,7 @@ R: Enchanted creature gets +1/+0 until end of turn.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>106/239</number>
+    <number>106/240</number>
   </card>
   <card>
     <name>Foul-Fit Fiend</name>
@@ -2248,7 +2248,7 @@ Whenever a creature with greater power enters the battlefield, untap Foul-Fit Fi
       <toughness>5</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>107/239</number>
+    <number>107/240</number>
   </card>
   <card>
     <name>Funky, Humongous Brute</name>
@@ -2267,7 +2267,7 @@ Funky deals 2 damage to each creature you don’t control. Those creatures canno
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>108/239</number>
+    <number>108/240</number>
   </card>
   <card>
     <name>Fusefire</name>
@@ -2285,7 +2285,7 @@ RRRRR: Return Fusefire from your graveyard to your hand.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>109/239</number>
+    <number>109/240</number>
   </card>
   <card>
     <name>Grinning Mangus</name>
@@ -2302,7 +2302,7 @@ RRRRR: Return Fusefire from your graveyard to your hand.</rules>
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>110/239</number>
+    <number>110/240</number>
   </card>
   <card>
     <name>Hammer Axe</name>
@@ -2320,7 +2320,7 @@ Hammer Axe deals 4 damage to target player or planeswalker.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>111/239</number>
+    <number>111/240</number>
   </card>
   <card>
     <name>Hooligany</name>
@@ -2339,7 +2339,7 @@ Hammer Axe deals 4 damage to target player or planeswalker.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>112/239</number>
+    <number>112/240</number>
   </card>
   <card>
     <name>Little Foncho</name>
@@ -2356,7 +2356,7 @@ Hammer Axe deals 4 damage to target player or planeswalker.</rules>
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>113/239</number>
+    <number>113/240</number>
   </card>
   <card>
     <name>Mangal Vandal*</name>
@@ -2374,7 +2374,7 @@ Hammer Axe deals 4 damage to target player or planeswalker.</rules>
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>114/239</number>
+    <number>114/240</number>
   </card>
   <card>
     <name>Mangiarch</name>
@@ -2391,7 +2391,7 @@ Hammer Axe deals 4 damage to target player or planeswalker.</rules>
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>115/239</number>
+    <number>115/240</number>
   </card>
   <card>
     <name>Mark of the True Fan</name>
@@ -2409,7 +2409,7 @@ Enchanted creature gets +2/+0 and has first strike.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>116/239</number>
+    <number>116/240</number>
   </card>
   <card>
     <name>Party Animals</name>
@@ -2427,7 +2427,7 @@ Impulsive reaction - Whenever Party Animals becomes the target of a spell or an 
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>117/239</number>
+    <number>117/240</number>
   </card>
   <card>
     <name>Pyroclasmic Fireworker</name>
@@ -2444,7 +2444,7 @@ Impulsive reaction - Whenever Party Animals becomes the target of a spell or an 
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>118/239</number>
+    <number>118/240</number>
   </card>
   <card>
     <name>Radka Piratka*art</name>
@@ -2461,7 +2461,7 @@ Impulsive reaction - Whenever Party Animals becomes the target of a spell or an 
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>119/239</number>
+    <number>119/240</number>
   </card>
   <card>
     <name>Rookie Bazookie</name>
@@ -2478,7 +2478,7 @@ Impulsive reaction - Whenever Party Animals becomes the target of a spell or an 
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>120/239</number>
+    <number>120/240</number>
   </card>
   <card>
     <name>Shukar Bride</name>
@@ -2496,7 +2496,7 @@ If you do, put a +1/+1 counter on Shukar Bride and its base power becomes 0 unti
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>121/239</number>
+    <number>121/240</number>
   </card>
   <card>
     <name>Siderov, Herald of Tumult*</name>
@@ -2514,7 +2514,7 @@ Whenever Siderov, Herald of Tumult* becomes blocked, choose a creature blocking 
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>122/239</number>
+    <number>122/240</number>
   </card>
   <card>
     <name>Unstoppable Mass</name>
@@ -2532,7 +2532,7 @@ Whenever Unstoppable Mass enters the battlefield or attacks, you may sacrifice a
       <toughness>5</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>123/239</number>
+    <number>123/240</number>
   </card>
   <card>
     <name>Shano</name>
@@ -2549,7 +2549,7 @@ Whenever Unstoppable Mass enters the battlefield or attacks, you may sacrifice a
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>124/239</number>
+    <number>124/240</number>
   </card>
   <card>
     <name>*Lumbering Battle Men</name>
@@ -2566,7 +2566,7 @@ Whenever Unstoppable Mass enters the battlefield or attacks, you may sacrifice a
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>125/239</number>
+    <number>125/240</number>
   </card>
   <card>
     <name>Benchwarders</name>
@@ -2583,7 +2583,7 @@ Whenever Unstoppable Mass enters the battlefield or attacks, you may sacrifice a
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>126/239</number>
+    <number>126/240</number>
   </card>
   <card>
     <name>Brotherhood Forger </name>
@@ -2600,7 +2600,7 @@ Whenever Unstoppable Mass enters the battlefield or attacks, you may sacrifice a
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>127/239</number>
+    <number>127/240</number>
   </card>
   <card>
     <name>Celebrity Impostor</name>
@@ -2618,7 +2618,7 @@ When Celebrity Impostor enters the battlefield, prevent all damage target creatu
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>128/239</number>
+    <number>128/240</number>
   </card>
   <card>
     <name>Cheat Fight</name>
@@ -2635,7 +2635,7 @@ When Celebrity Impostor enters the battlefield, prevent all damage target creatu
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>129/239</number>
+    <number>129/240</number>
   </card>
   <card>
     <name>Cigan of Alush-Verish</name>
@@ -2652,7 +2652,7 @@ When Celebrity Impostor enters the battlefield, prevent all damage target creatu
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>130/239</number>
+    <number>130/240</number>
   </card>
   <card>
     <name>Cooksmith</name>
@@ -2670,7 +2670,7 @@ When Cooksmith becomes tapped, create a Stuff token.</rules>
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>131/239</number>
+    <number>131/240</number>
   </card>
   <card>
     <name>Dealer of the Paradise</name>
@@ -2690,7 +2690,7 @@ G, T: Target creature gains vigilance until end of turn.
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>132/239</number>
+    <number>132/240</number>
   </card>
   <card>
     <name>Derby Deployment</name>
@@ -2708,7 +2708,7 @@ Each creature you control fights target creature you don’t control. You can’
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>133/239</number>
+    <number>133/240</number>
   </card>
   <card>
     <name>Dòner Donator</name>
@@ -2725,7 +2725,7 @@ Each creature you control fights target creature you don’t control. You can’
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>134/239</number>
+    <number>134/240</number>
   </card>
   <card>
     <name>Drugmunchers*</name>
@@ -2743,7 +2743,7 @@ At the beginning of your upkeep, you may pay G. If you do, untap Drugmunchers* a
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>135/239</number>
+    <number>135/240</number>
   </card>
   <card>
     <name>Flea Market</name>
@@ -2765,7 +2765,7 @@ Enchanted land has “T: Choose one at random
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>136/239</number>
+    <number>136/240</number>
   </card>
   <card>
     <name>Food-Chain Companion</name>
@@ -2782,7 +2782,7 @@ Enchanted land has “T: Choose one at random
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>137/239</number>
+    <number>137/240</number>
   </card>
   <card>
     <name>Gains-Gorger Giant</name>
@@ -2801,7 +2801,7 @@ Sacrifice a Stuff token: Put a +1/+1 counter on Gains-Gorger Giant.</rules>
       <toughness>0</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>138/239</number>
+    <number>138/240</number>
   </card>
   <card>
     <name>Goodwill Progenitor</name>
@@ -2819,7 +2819,7 @@ Remove two donation counters from Goodwill Progenitor: Add three mana of any col
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>139/239</number>
+    <number>139/240</number>
   </card>
   <card>
     <name>Grassroots Exemplar</name>
@@ -2836,7 +2836,7 @@ Remove two donation counters from Goodwill Progenitor: Add three mana of any col
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>140/239</number>
+    <number>140/240</number>
   </card>
   <card>
     <name>Grassroots Native</name>
@@ -2854,7 +2854,7 @@ When this creature attacks, scry 1.</rules>
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>141/239</number>
+    <number>141/240</number>
   </card>
   <card>
     <name>Household Sovereign</name>
@@ -2871,7 +2871,7 @@ When this creature attacks, scry 1.</rules>
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>142/239</number>
+    <number>142/240</number>
   </card>
   <card>
     <name>Keeper of Traditions</name>
@@ -2889,7 +2889,7 @@ As long as it’s not your turn, elder creatures you control have hexproof.</rul
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>143/239</number>
+    <number>143/240</number>
   </card>
   <card>
     <name>Kosmodisk</name>
@@ -2907,7 +2907,7 @@ Target creature gets +3/+3 and gains reach until end of turn.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>144/239</number>
+    <number>144/240</number>
   </card>
   <card>
     <name>Labor-Honed Granny</name>
@@ -2924,7 +2924,7 @@ Target creature gets +3/+3 and gains reach until end of turn.</rules>
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>145/239</number>
+    <number>145/240</number>
   </card>
   <card>
     <name>Madwoods Gang</name>
@@ -2941,7 +2941,7 @@ Target creature gets +3/+3 and gains reach until end of turn.</rules>
       <toughness>7</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>146/239</number>
+    <number>146/240</number>
   </card>
   <card>
     <name>Mallcrawler</name>
@@ -2958,7 +2958,7 @@ Target creature gets +3/+3 and gains reach until end of turn.</rules>
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>147/239</number>
+    <number>147/240</number>
   </card>
   <card>
     <name>Mark of the Patriot</name>
@@ -2978,7 +2978,7 @@ Yunak s dalboka na garba rana.</flavor>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>148/239</number>
+    <number>148/240</number>
   </card>
   <card>
     <name>Neighbourhood Watchman</name>
@@ -2995,7 +2995,7 @@ Yunak s dalboka na garba rana.</flavor>
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>149/239</number>
+    <number>149/240</number>
   </card>
   <card>
     <name>Patron of the Den</name>
@@ -3012,7 +3012,7 @@ Yunak s dalboka na garba rana.</flavor>
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>150/239</number>
+    <number>150/240</number>
   </card>
   <card>
     <name>Plow-Through Batka</name>
@@ -3029,7 +3029,7 @@ Yunak s dalboka na garba rana.</flavor>
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>151/239</number>
+    <number>151/240</number>
   </card>
   <card>
     <name>Profitalize</name>
@@ -3048,7 +3048,7 @@ Create a Treasure.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>152/239</number>
+    <number>152/240</number>
   </card>
   <card>
     <name>Prowling Ultras</name>
@@ -3065,7 +3065,7 @@ Create a Treasure.</rules>
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>153/239</number>
+    <number>153/240</number>
   </card>
   <card>
     <name>Shop Keeper</name>
@@ -3082,7 +3082,7 @@ Create a Treasure.</rules>
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>154/239</number>
+    <number>154/240</number>
   </card>
   <card>
     <name>Suburbian Recidivists</name>
@@ -3099,7 +3099,7 @@ Create a Treasure.</rules>
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>155/239</number>
+    <number>155/240</number>
   </card>
   <card>
     <name>Trash-Stasher</name>
@@ -3117,7 +3117,7 @@ Crew 3</rules>
       <toughness>6</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>156/239</number>
+    <number>156/240</number>
   </card>
   <card>
     <name>Unbeaten Woman</name>
@@ -3135,7 +3135,7 @@ Whenever Unbeaten Woman is dealt damage, put a +1/+1 counter on it. (It must sur
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>157/239</number>
+    <number>157/240</number>
   </card>
   <card>
     <name>Uti Buchvarov, the Plentiful</name>
@@ -3154,7 +3154,7 @@ You get an emblem with “At the beginning of your end step, create three Stuff 
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>158/239</number>
+    <number>158/240</number>
   </card>
   <card>
     <name>Vandalist Simpleton</name>
@@ -3171,7 +3171,7 @@ You get an emblem with “At the beginning of your end step, create three Stuff 
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>159/239</number>
+    <number>159/240</number>
   </card>
   <card>
     <name>Yajte!</name>
@@ -3188,7 +3188,7 @@ You get an emblem with “At the beginning of your end step, create three Stuff 
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>160/239</number>
+    <number>160/240</number>
   </card>
   <card>
     <name>*Quarantine patrol</name>
@@ -3205,7 +3205,7 @@ You get an emblem with “At the beginning of your end step, create three Stuff 
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>161/239</number>
+    <number>161/240</number>
   </card>
   <card>
     <name>Baba Penka, Seasoned Chef</name>
@@ -3224,7 +3224,7 @@ G, sacrifice a Stuff token: Put a +1/+1 counter on target creature.</rules>
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>162/239</number>
+    <number>162/240</number>
   </card>
   <card>
     <name>Brotherbros</name>
@@ -3241,7 +3241,7 @@ G, sacrifice a Stuff token: Put a +1/+1 counter on target creature.</rules>
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>163/239</number>
+    <number>163/240</number>
   </card>
   <card>
     <name>Charming Beyond Duality</name>
@@ -3261,7 +3261,7 @@ Whenever enchanted creature blocks, create a Stuff token.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>164/239</number>
+    <number>164/240</number>
   </card>
   <card>
     <name>Collective Charm</name>
@@ -3281,7 +3281,7 @@ Whenever enchanted creature blocks, create a Stuff token.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>165/239</number>
+    <number>165/240</number>
   </card>
   <card>
     <name>Conductors Squad</name>
@@ -3298,7 +3298,7 @@ Whenever enchanted creature blocks, create a Stuff token.</rules>
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>166/239</number>
+    <number>166/240</number>
   </card>
   <card>
     <name>Dedo Moni*</name>
@@ -3316,7 +3316,7 @@ Lands named Palace have no abilities as long as you control Dedo Moni*..</rules>
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>167/239</number>
+    <number>167/240</number>
   </card>
   <card>
     <name>Dinko</name>
@@ -3334,7 +3334,7 @@ Impulsive reaction - Whenever Dinko becomes the target of a spell or an ability 
       <toughness>5</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>168/239</number>
+    <number>168/240</number>
   </card>
   <card>
     <name>Elusive Izmentor</name>
@@ -3352,7 +3352,7 @@ Elusive Izmentor has deathtouch if no opponent controls an Advisor.</rules>
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>169/239</number>
+    <number>169/240</number>
   </card>
   <card>
     <name>Execrator Mangasar*</name>
@@ -3370,7 +3370,7 @@ Whenever another goblin you control dies, target player discards a card. If it w
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>170/239</number>
+    <number>170/240</number>
   </card>
   <card>
     <name>General Mutafchiiski*</name>
@@ -3388,7 +3388,7 @@ When this creature enters the battlefield or becomes untapped, exile target tapp
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>171/239</number>
+    <number>171/240</number>
   </card>
   <card>
     <name>Hierarchical Bystanders</name>
@@ -3405,7 +3405,7 @@ When this creature enters the battlefield or becomes untapped, exile target tapp
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>172/239</number>
+    <number>172/240</number>
   </card>
   <card>
     <name>Highblight the Stage</name>
@@ -3423,7 +3423,7 @@ Creatures your opponents control get -2/-2 until end of turn. Tap all creatures.
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>173/239</number>
+    <number>173/240</number>
   </card>
   <card>
     <name>Homemade Charm</name>
@@ -3443,7 +3443,7 @@ Creatures your opponents control get -2/-2 until end of turn. Tap all creatures.
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>174/239</number>
+    <number>174/240</number>
   </card>
   <card>
     <name>Ivan Kostov, the Underminer</name>
@@ -3461,7 +3461,7 @@ At the beginning of each end step, scry X, where X is equal to the life lost by 
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>175/239</number>
+    <number>175/240</number>
   </card>
   <card>
     <name>Lafka</name>
@@ -3479,7 +3479,7 @@ At the beginning of each end step, scry X, where X is equal to the life lost by 
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>176/239</number>
+    <number>176/240</number>
   </card>
   <card>
     <name>Ongoing Broadcast</name>
@@ -3497,7 +3497,7 @@ B: Target creature you control gets -1/-0 and gains skulk until end of turn.</ru
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>177/239</number>
+    <number>177/240</number>
   </card>
   <card>
     <name>Pester Patrol</name>
@@ -3516,7 +3516,7 @@ When Pester Patrol enters the battlefield, you may tap target noncreature perman
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>178/239</number>
+    <number>178/240</number>
   </card>
   <card>
     <name>Protein Charm</name>
@@ -3536,7 +3536,7 @@ When Pester Patrol enters the battlefield, you may tap target noncreature perman
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>179/239</number>
+    <number>179/240</number>
   </card>
   <card>
     <name>Scornful Charm*nonc</name>
@@ -3556,7 +3556,7 @@ When Pester Patrol enters the battlefield, you may tap target noncreature perman
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>180/239</number>
+    <number>180/240</number>
   </card>
   <card>
     <name>Shanomage</name>
@@ -3574,7 +3574,25 @@ Whenever Shanomage deals combat damage to a player, you may draw a card. </rules
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>181/239</number>
+    <number>181/240</number>
+  </card>
+  <card>
+    <name>Siromashki, the Doppel</name>
+    <cost>1UB</cost>
+    <type>
+      <supertype>Legendary Creature</supertype>
+      <subtype>Shapeshifter </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>As Siromashki, the Doppel enters the battlefield, you may choose a creature on the battlefield. If you do, it enters as a copy of that creature, except it’s still 2/2.
+Whenever a player casts a sorcery spell with a single target, if it targets this creature or the chosen creature, if it’s still on the battlefield, copy the spell for the other.          </rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>182/240</number>
   </card>
   <card>
     <name>Squatter Vagrant *</name>
@@ -3591,7 +3609,7 @@ Whenever Shanomage deals combat damage to a player, you may draw a card. </rules
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>182/239</number>
+    <number>183/240</number>
   </card>
   <card>
     <name>Sustenance Provider</name>
@@ -3608,7 +3626,7 @@ Whenever Shanomage deals combat damage to a player, you may draw a card. </rules
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>183/239</number>
+    <number>184/240</number>
   </card>
   <card>
     <name>Tariq Atman, Heavyweight</name>
@@ -3626,7 +3644,7 @@ Whenever Shanomage deals combat damage to a player, you may draw a card. </rules
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>184/239</number>
+    <number>185/240</number>
   </card>
   <card>
     <name>Trash Tarasher</name>
@@ -3643,7 +3661,7 @@ Whenever Shanomage deals combat damage to a player, you may draw a card. </rules
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>185/239</number>
+    <number>186/240</number>
   </card>
   <card>
     <name>Urban Charm</name>
@@ -3663,7 +3681,7 @@ Whenever Shanomage deals combat damage to a player, you may draw a card. </rules
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>186/239</number>
+    <number>187/240</number>
   </card>
   <card>
     <name>Burzai</name>
@@ -3680,7 +3698,7 @@ Whenever Shanomage deals combat damage to a player, you may draw a card. </rules
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>187/239</number>
+    <number>188/240</number>
   </card>
   <card>
     <name>Gordost</name>
@@ -3697,7 +3715,7 @@ Whenever Shanomage deals combat damage to a player, you may draw a card. </rules
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>188/239</number>
+    <number>189/240</number>
   </card>
   <card>
     <name>Hlqb</name>
@@ -3714,7 +3732,7 @@ Whenever Shanomage deals combat damage to a player, you may draw a card. </rules
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>189/239</number>
+    <number>190/240</number>
   </card>
   <card>
     <name>Ot Glavata</name>
@@ -3731,7 +3749,7 @@ Whenever Shanomage deals combat damage to a player, you may draw a card. </rules
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>190/239</number>
+    <number>191/240</number>
   </card>
   <card>
     <name>Saedinenieto</name>
@@ -3748,7 +3766,7 @@ Whenever Shanomage deals combat damage to a player, you may draw a card. </rules
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>191/239</number>
+    <number>192/240</number>
   </card>
   <card>
     <name>Adidas Tracksuit</name>
@@ -3766,7 +3784,7 @@ Equip 3</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>192/239</number>
+    <number>193/240</number>
   </card>
   <card>
     <name>Albiggeroof</name>
@@ -3784,7 +3802,7 @@ Equip 3</rules>
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>193/239</number>
+    <number>194/240</number>
   </card>
   <card>
     <name>Arizonka Elder</name>
@@ -3802,7 +3820,7 @@ W: Regenerate Arizonka Elder and you lose 1 life. Activate this ability only onc
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>194/239</number>
+    <number>195/240</number>
   </card>
   <card>
     <name>B.D.X.</name>
@@ -3821,7 +3839,7 @@ You may sacrifice a nontoken permanent rather than pay B.D.X.’s crew cost. Whe
       <toughness>7</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>195/239</number>
+    <number>196/240</number>
   </card>
   <card>
     <name>Bargain-born</name>
@@ -3841,7 +3859,7 @@ You may sacrifice a nontoken permanent rather than pay B.D.X.’s crew cost. Whe
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>196/239</number>
+    <number>197/240</number>
   </card>
   <card>
     <name>Boulevard Bodyguards</name>
@@ -3860,7 +3878,7 @@ You may sacrifice a nontoken permanent rather than pay B.D.X.’s crew cost. Whe
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>197/239</number>
+    <number>198/240</number>
   </card>
   <card>
     <name>Cane of the Ages</name>
@@ -3879,7 +3897,7 @@ Equip 3</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>198/239</number>
+    <number>199/240</number>
   </card>
   <card>
     <name>Charged Scooter*</name>
@@ -3897,7 +3915,7 @@ Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)</ru
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>199/239</number>
+    <number>200/240</number>
   </card>
   <card>
     <name>Cingo Blingo</name>
@@ -3915,7 +3933,7 @@ Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)</ru
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>200/239</number>
+    <number>201/240</number>
   </card>
   <card>
     <name>Communism Matrix</name>
@@ -3932,7 +3950,7 @@ Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)</ru
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>201/239</number>
+    <number>202/240</number>
   </card>
   <card>
     <name>Garnments of Prestige</name>
@@ -3951,7 +3969,7 @@ Equip 2
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>202/239</number>
+    <number>203/240</number>
   </card>
   <card>
     <name>Greenery-man</name>
@@ -3969,7 +3987,7 @@ Equip 2
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>203/239</number>
+    <number>204/240</number>
   </card>
   <card>
     <name>Highway Razer</name>
@@ -3988,7 +4006,7 @@ Crew 2</rules>
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>204/239</number>
+    <number>205/240</number>
   </card>
   <card>
     <name>Karuca*art</name>
@@ -4006,7 +4024,7 @@ You may tap a goblin you control rather than pay Karuca’s crew cost.</rules>
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>205/239</number>
+    <number>206/240</number>
   </card>
   <card>
     <name>Landplower's Traktor</name>
@@ -4024,7 +4042,7 @@ Crew 0 (Tap one or more untapped creatures you control with total power 0 or gre
       <toughness>4</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>206/239</number>
+    <number>207/240</number>
   </card>
   <card>
     <name>Lawkeepers' Pursuer</name>
@@ -4043,7 +4061,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or greater: T
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>207/239</number>
+    <number>208/240</number>
   </card>
   <card>
     <name>Lottery Promoter</name>
@@ -4063,7 +4081,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or greater: T
       <toughness>0</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>208/239</number>
+    <number>209/240</number>
   </card>
   <card>
     <name>P.A.I.A.K.</name>
@@ -4082,7 +4100,7 @@ Crew 4</rules>
       <toughness>5</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>209/239</number>
+    <number>210/240</number>
   </card>
   <card>
     <name>Pack of Cigarettes </name>
@@ -4099,7 +4117,7 @@ Crew 4</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>210/239</number>
+    <number>211/240</number>
   </card>
   <card>
     <name>Pessak Listener</name>
@@ -4117,7 +4135,7 @@ Crew 4</rules>
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>211/239</number>
+    <number>212/240</number>
   </card>
   <card>
     <name>Pick and Choose, Buffet Duo</name>
@@ -4136,7 +4154,7 @@ Crew 4</rules>
       <toughness>2</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>212/239</number>
+    <number>213/240</number>
   </card>
   <card>
     <name>Pidgeon</name>
@@ -4154,7 +4172,7 @@ Whenever Pidgeon deals combat damage to an opponent, destroy target token perman
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>213/239</number>
+    <number>214/240</number>
   </card>
   <card>
     <name>Religious Icon</name>
@@ -4172,7 +4190,7 @@ Whenever Pidgeon deals combat damage to an opponent, destroy target token perman
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>214/239</number>
+    <number>215/240</number>
   </card>
   <card>
     <name>Retiring Comet</name>
@@ -4192,7 +4210,7 @@ Crew 3</rules>
       <toughness>7</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>215/239</number>
+    <number>216/240</number>
   </card>
   <card>
     <name>Road Wrecker</name>
@@ -4211,7 +4229,7 @@ Crew 3</rules>
       <toughness>3</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>216/239</number>
+    <number>217/240</number>
   </card>
   <card>
     <name>Stuffworker</name>
@@ -4230,7 +4248,7 @@ Crew 3</rules>
       <toughness>1</toughness>
     </stats>
     <illustrator></illustrator>
-    <number>217/239</number>
+    <number>218/240</number>
   </card>
   <card>
     <name>District Department</name>
@@ -4249,7 +4267,7 @@ T: Add W or U.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>218/239</number>
+    <number>219/240</number>
   </card>
   <card>
     <name>Fitness Hall</name>
@@ -4268,7 +4286,7 @@ T: Add R or G.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>219/239</number>
+    <number>220/240</number>
   </card>
   <card>
     <name>Forest</name>
@@ -4285,7 +4303,7 @@ T: Add R or G.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>220/239</number>
+    <number>221/240</number>
   </card>
   <card>
     <name>Forest</name>
@@ -4302,7 +4320,7 @@ T: Add R or G.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>221/239</number>
+    <number>222/240</number>
   </card>
   <card>
     <name>Forest</name>
@@ -4319,7 +4337,7 @@ T: Add R or G.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>222/239</number>
+    <number>223/240</number>
   </card>
   <card>
     <name>Island</name>
@@ -4336,7 +4354,7 @@ T: Add R or G.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>223/239</number>
+    <number>224/240</number>
   </card>
   <card>
     <name>Island</name>
@@ -4353,7 +4371,7 @@ T: Add R or G.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>224/239</number>
+    <number>225/240</number>
   </card>
   <card>
     <name>Island</name>
@@ -4370,7 +4388,7 @@ T: Add R or G.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>225/239</number>
+    <number>226/240</number>
   </card>
   <card>
     <name>Marketpost</name>
@@ -4388,7 +4406,7 @@ T, Tap an untapped creature or artifact you control: Add one mana of any color.<
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>226/239</number>
+    <number>227/240</number>
   </card>
   <card>
     <name>Mountain</name>
@@ -4405,7 +4423,7 @@ T, Tap an untapped creature or artifact you control: Add one mana of any color.<
       <toughness></toughness>
     </stats>
     <illustrator>Vesko Radulov</illustrator>
-    <number>227/239</number>
+    <number>228/240</number>
   </card>
   <card>
     <name>Mountain*</name>
@@ -4422,7 +4440,7 @@ T, Tap an untapped creature or artifact you control: Add one mana of any color.<
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>228/239</number>
+    <number>229/240</number>
   </card>
   <card>
     <name>Mountain*</name>
@@ -4439,7 +4457,7 @@ T, Tap an untapped creature or artifact you control: Add one mana of any color.<
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>229/239</number>
+    <number>230/240</number>
   </card>
   <card>
     <name>Pile of Thrash</name>
@@ -4458,7 +4476,7 @@ T: Add B or R.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>230/239</number>
+    <number>231/240</number>
   </card>
   <card>
     <name>Plains</name>
@@ -4475,7 +4493,7 @@ T: Add B or R.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>231/239</number>
+    <number>232/240</number>
   </card>
   <card>
     <name>Plains</name>
@@ -4492,7 +4510,7 @@ T: Add B or R.</rules>
       <toughness></toughness>
     </stats>
     <illustrator>REDlightIMAGE</illustrator>
-    <number>232/239</number>
+    <number>233/240</number>
   </card>
   <card>
     <name>Plains</name>
@@ -4509,7 +4527,7 @@ T: Add B or R.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>233/239</number>
+    <number>234/240</number>
   </card>
   <card>
     <name>Plaza Station</name>
@@ -4528,7 +4546,7 @@ T, Tap an untapped creature you control: Add one mana of any color.
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>234/239</number>
+    <number>235/240</number>
   </card>
   <card>
     <name>Schematorium</name>
@@ -4547,7 +4565,7 @@ T: Add U or B.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>235/239</number>
+    <number>236/240</number>
   </card>
   <card>
     <name>Swamp</name>
@@ -4564,7 +4582,7 @@ T: Add U or B.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>236/239</number>
+    <number>237/240</number>
   </card>
   <card>
     <name>Swamp</name>
@@ -4581,7 +4599,7 @@ T: Add U or B.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>237/239</number>
+    <number>238/240</number>
   </card>
   <card>
     <name>Swamp</name>
@@ -4598,7 +4616,7 @@ T: Add U or B.</rules>
       <toughness></toughness>
     </stats>
     <illustrator></illustrator>
-    <number>238/239</number>
+    <number>239/240</number>
   </card>
   <card>
     <name>Village Villa</name>
@@ -4617,6 +4635,6 @@ T: Add G or W.</rules>
       <toughness></toughness>
     </stats>
     <illustrator>Yanko Yasev</illustrator>
-    <number>239/239</number>
+    <number>240/240</number>
   </card>
 </spoiler>
